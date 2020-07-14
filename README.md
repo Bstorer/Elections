@@ -1,3 +1,5 @@
+#Elections
+
 Esse projeto tem como objetivo a criação de um report que busque os sentimentos dos candidatos para presidência dos EUA em 2016 sobre determinados assuntos que comentaram em seus twitters.
 
 
